@@ -1,1 +1,2 @@
 This is just a test to see how fetch and merge work.
+Let's make some changes and see.
