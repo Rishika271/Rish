@@ -1,2 +1,3 @@
 This is just a test to see how fetch and merge work.
-Let's make some changes and see.This line is from main branch
+<<<<<<< HEAD
+This line is from both branches (merged manually).
