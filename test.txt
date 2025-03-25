@@ -1,2 +1,2 @@
 This is just a test to see how fetch and merge work.
-Let's make some changes and see.
+Let's make some changes and see.This line is from conflict-branch
